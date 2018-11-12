@@ -5,7 +5,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Usuario {
-
+	//Classe Usuario
 	private String nome_time;
 
 	private String nome_usuario;
